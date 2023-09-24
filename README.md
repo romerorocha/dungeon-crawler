@@ -1,6 +1,6 @@
 # Dungeon Crawler
 
-A blazing fast RPG (from the book "Hands-on Rust").
+A blazing fast RPG. From the book "Hands-on Rust".
 
 ## Description
 
